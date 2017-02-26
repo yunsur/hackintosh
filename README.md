@@ -6,7 +6,6 @@ The work introduced here is gathered and collected from many sources.<br>
 You should buy Apple computer to be able to use Apple software legally in compliance with Apple's macOS EULA.<br>
 
 ## Prerequisites
-*** | Raw |
 ---------|:---------:
 Computer		| Lenovo IdeaPad Y410P Laptop   
 CPU				| Intel Core i7-4700MQ @ 2.40G
