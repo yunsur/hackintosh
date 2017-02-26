@@ -6,16 +6,17 @@ The work introduced here is gathered and collected from many sources.<br>
 You should buy Apple computer to be able to use Apple software legally in compliance with Apple's macOS EULA.<br>
 
 ## Prerequisites
-	| Computer		| Lenovo IdeaPad Y410P Laptop   
-    | 	--------	| 	------: 	|
-    | CPU			| Intel Core i7-4700MQ @ 2.40G |	
-    | Chipset		| Lenovo (Intel HM86 Chipset)      |
-    | Graphics		| HD4600	(using Intel GPU only)      |
-    | Audio			| ALC282 @ Intel  Lynx Point High Definition Audio |
-    | Ethernet		| Atheros QCA8171 Gigabit Ethernet      |
-    | WiFi			| Broadcom BCM94352HMB 802.11AC      |
-    | Bluetooth		| BCM20702 (4.0)      |
-    | BIOS Version	| 3.08      |
+*** | Raw |
+---------|:---------:
+Computer		| Lenovo IdeaPad Y410P Laptop   
+CPU				| Intel Core i7-4700MQ @ 2.40G
+Chipset			| Lenovo (Intel HM86 Chipset)
+Graphics		| HD4600	(using Intel GPU only)
+Audio			| ALC282 @ Intel  Lynx Point High Definition Audio
+Ethernet		| Atheros QCA8171 Gigabit Ethernet
+WiFi			| Broadcom BCM94352HMB 802.11AC
+Bluetooth		| BCM20702 (4.0)
+BIOS Version	| 3.08
 
 ## Update
 support 10.12.x (macOS Sierra) Latest<br>
